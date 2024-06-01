@@ -1,0 +1,9 @@
+Use bash in VS for to use LINUX operating system
+
+mkdir 		-> create a directory (demo)
+cd demo 	-> change current directory to "demo"
+ls		-> check for any file in the directory
+touch pk.txt	-> create a text file "pk.txt"
+vi pk.txt	-> opens file press "i" input will change type anything you want and click "shift + z + z" to save exit.
+cat pk.txt	-> display the containt
+
