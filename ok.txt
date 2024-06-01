@@ -7,3 +7,11 @@ touch pk.txt	-> create a text file "pk.txt"
 vi pk.txt	-> opens file press "i" input will change type anything you want and click "shift + z + z" to save exit.
 cat pk.txt	-> display the containt
 
+working on git
+open the "demo" folder and right click select "open git bash here" and it'll open bash command interface. Then type bellow command.
+
+git init	-> initializes a git repository
+git status	-> provides status of repo, what are the commits you maid, which are in staging area and which file are untracked.
+git add pk.py	-> it'll add a file to staging area (git add is used to track the files)
+git add .	-> it'll add all file to the staging area
+git commit -m "Comment"		-> it'll push the all file to repo
