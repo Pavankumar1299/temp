@@ -15,3 +15,5 @@ git status	-> provides status of repo, what are the commits you maid, which are 
 git add pk.py	-> it'll add a file to staging area (git add is used to track the files)
 git add .	-> it'll add all file to the staging area
 git commit -m "Comment"		-> it'll push the all file to repo
+
+it's working
